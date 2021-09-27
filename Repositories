@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="robots" content="index,nofollow">
+
+<title>AdditionalResources/Repositories - CentOS Wiki</title>
+<script type="text/javascript" src="/moin_static1911/common/js/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "Search";
+//-->
+</script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/memodump.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/moinizer.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="CentOS Wiki: AdditionalResources/Repositories" href="/action/rss_rc/AdditionalResources/Repositories?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=AdditionalResources%2FRepositories&amp;ddiffs=1" type="application/rss+xml">
+
+
+<link rel="Start" href="/FrontPage">
+<link rel="Alternate" title="Wiki Markup" href="/action/raw/AdditionalResources/Repositories?action=raw">
+<link rel="Alternate" media="print" title="Print View" href="/action/print/AdditionalResources/Repositories?action=print">
+<link rel="Up" href="/AdditionalResources">
+<link rel="Search" href="/FindPage">
+<link rel="Index" href="/TitleIndex">
+<link rel="Glossary" href="/WordIndex">
+<link rel="Help" href="/HelpOnFormatting">
+</head>
+
+<body  lang="en" dir="ltr">
+
+  <div id="outbox" class="sidebar-toggle">
+    <!-- Bootstrap navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top navbar-mobile-toggle" role="navigation">
+      <div class="container">
+
+        <!-- Navbar header -->
+        <div class="navbar-header">
+          <!-- Sidebar toggler -->
+          <button type="button" class="btn navbar-btn sidebar-toggler" data-toggle="toggle" data-target=".sidebar-toggle">
+            <span class="sr-only">Toggle sidebar</span>
+            <span class="menu-btn-sidebar-toggler sidebar-toggle"></span>
+          </button>
+          <!-- Button to show navbar controls when collapsed -->
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- Sitename -->
+
+          <div class="navbar-brand-wrapper">
+            <a class="navbar-brand" href="/FrontPage"><img src="/moin_static1911/common/centos.png" alt="CentOS Wiki"></a>
+          </div>
+          
+        </div> <!-- /.navbar-header -->
+
+        <!-- Body of navbar -->
+        <div class="collapse navbar-collapse">
+
+          <!-- Navbar elements -->
+          <ul class="nav navbar-nav navbar-right">
+
+            <!-- Comment toggle button -->
+
+            <li class="toggleCommentsButton" style="display:none;">
+              <a href="#" class="menu-nav-comment nbcomment" rel="nofollow" onClick="toggleComments();return false;">
+                <span class="hidden-sm">Comments</span>
+              </a>
+            </li>
+
+            <!-- Edit button -->
+
+            <li class="disabled">
+              <a class="menu-nav-edit"><span class="hidden-sm">Immutable Page</span></a>
+            </li>
+
+            <!-- Search form -->
+
+          <li>
+            <div class="navbar-form">
+              <form class="form-search" role="search" id="searchform" method="get" action="/AdditionalResources/Repositories">
+                <input type="hidden" name="action" value="fullsearch">
+                <input type="hidden" name="context" value="180">
+                <div class="form-group">
+                  <label class="sr-only" for="searchinput">Search:</label>
+                  <input id="searchinput" type="text" class="form-control form-search" placeholder="Search" name="value" value="">
+                </div>
+              </form>
+            </div>
+          </li>
+
+            <!-- Menu -->
+
+            <li class="dropdown">
+              <!-- Menu button -->
+              <a href="#" class="menu-nav-menu dropdown-toggle" data-toggle="dropdown">
+                Menu<span class="padding"></span><span class="caret"></span>
+              </a>
+              <!-- Dropdown contents -->
+              <ul class="dropdown-menu">
+                <li class="dropdown-header">Navigation</li>
+                <li><a href="/RecentChanges" class="menu-dd-RecentChanges" rel="nofollow">RecentChanges</a></li>
+                <li><a href="/FindPage" class="menu-dd-FindPage" rel="nofollow">FindPage</a></li>
+                <li><a href="/AdditionalResources/Repositories?action=LocalSiteMap" class="menu-dd-LocalSiteMap" rel="nofollow">Local Site Map</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Help</li>
+                <li><a href="/HelpContents" class="menu-dd-HelpContents" rel="nofollow">HelpContents</a></li>
+                <li><a href="/HelpOnMoinWikiSyntax" class="menu-dd-HelpOnMoinWikiSyntax" rel="nofollow">HelpOnMoinWikiSyntax</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Display</li>
+                <li><a href="/AdditionalResources/Repositories?action=AttachFile" class="menu-dd-AttachFile" rel="nofollow">Attachments</a></li>
+                <li><a href="/AdditionalResources/Repositories?action=info" class="menu-dd-info" rel="nofollow">Info</a></li>
+                <li><a href="/AdditionalResources/Repositories?action=raw" class="menu-dd-raw" rel="nofollow">Raw Text</a></li>
+                <li><a href="/AdditionalResources/Repositories?action=print" class="menu-dd-print" rel="nofollow">Print View</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Edit</li>
+                <li><a href="/AdditionalResources/Repositories?action=Load" class="menu-dd-Load" rel="nofollow">Load</a></li>
+                <li><a href="/AdditionalResources/Repositories?action=Save" class="menu-dd-Save" rel="nofollow">Save</a></li>
+              </ul>
+            </li> <!-- /dropdown -->
+
+            <!-- Login user -->
+
+            <li>
+              <a class="menu-nav-login" href="/action/login/AdditionalResources/Repositories?action=login" rel="nofollow">Login</a>
+            </li>
+
+
+          </ul> <!-- /.navbar-right -->
+
+        </div> <!-- /.collapse -->
+      </div> <!-- /.container -->
+    </div> <!-- /.navbar -->
+    <!-- End of navbar -->
+
+    <div class="container no-padding" id="pagebox">
+
+
+      <!-- Sidebar -->
+      <div class="sidebar-toggle" id="sidebar-curtain">
+        <div class="sidebar-toggle" id="sidebar-mover">
+          <div class="sidebar-toggle" id="sidebar" role="navigation">
+<!-- SideBar contents -->
+
+<!-- End of SideBar contents -->
+
+            <div>
+              <h4>Navigation</h4>
+              <ul id='navibar'>
+                <li class="wikilink"><a href="/FrontPage">FrontPage</a></li>                <li class="wikilink"><a href="/Documentation">Documentation</a></li>                <li class="wikilink"><a href="/TipsAndTricks">TipsAndTricks</a></li>                <li class="wikilink"><a href="/HowTos">HowTos</a></li>                <li class="wikilink"><a href="/FAQ">FAQ</a></li>                <li class="wikilink"><a href="/Events">Events</a></li>                <li class="wikilink"><a href="/Contribute">Contribute</a></li>                <li class="wikilink"><a href="/ReportBugs">ReportBugs</a></li>                <li class="wikilink"><a href="/RecentChanges">RecentChanges</a></li>
+              </ul>
+            </div>
+
+
+          </div> <!-- /#sidebar -->
+        </div> <!-- /#sidebar-mover -->
+      </div><div id="contentbox"> <!-- End of Sidebar and Beginning of content -->
+
+
+
+
+        <div id="location">
+
+
+<ul id="pagelocation">
+<li><a href="/AdditionalResources">AdditionalResources</a></li><li>Repositories</li>
+</ul>
+
+          <span class="lastupdate">Last updated at 2021-07-26 22:44:37</span>
+        </div>
+
+
+<!-- Page contents -->
+<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span><span class="anchor" id="line-4"></span><p class="line867">
+<h1 id="Available_Repositories_for_CentOS">Available Repositories for CentOS</h1>
+<span class="anchor" id="line-5"></span><span class="anchor" id="line-6"></span><p class="line862">There are several repositories provided by CentOS and other 3rd party developers that offer software packages that are not included in the default base and updates repositories. While no list can be 100% complete, as anyone may announce an archive, it represents some major efforts and provides a summary of what each repository offers. These repositories have <strong>varying levels of stability, support and cooperation</strong> within the CentOS community. <span class="anchor" id="line-7"></span><span class="anchor" id="line-8"></span><p class="line867">
+<h2 id="About_.27enabled.27_and_.27disabled.27_repository_configuration_files">About 'enabled' and 'disabled' repository configuration files</h2>
+<span class="anchor" id="line-9"></span><span class="anchor" id="line-10"></span><p class="line862">Please read <tt>man&nbsp;5&nbsp;yum.conf</tt>, particularly the discussion of <tt>enabled=0</tt> versus <tt>enabled=1</tt> .  A line containing one of these options is recommended for each repository in each <tt>.conf</tt> file in the <tt>&nbsp;/etc/yum.repos.d/&nbsp;</tt> directory.  This allows the administrator to more clearly specify whether a repository is or is not used for packages.  After any edits of these files, in order to clear any cached information, and to make sure the changes are immediately recognized, as root run: <span class="anchor" id="line-11"></span><span class="anchor" id="line-12"></span><p class="line867"><span class="anchor" id="line-13"></span><pre><span class="anchor" id="line-1"></span># yum clean all </pre><span class="anchor" id="line-14"></span><span class="anchor" id="line-15"></span><p class="line867">
+<h2 id="Additional_CentOS_Provided_Repositories">Additional CentOS Provided Repositories</h2>
+<span class="anchor" id="line-16"></span><span class="anchor" id="line-17"></span><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-18"></span><ul><li><p class="line891"><strong>CentOS Extras</strong> - In CentOS 5 and 6, packages that provide additional functionality to CentOS without breaking upstream compatibility or updating base components, but are not tested by upstream or available in the upstream product. In CentOS 7 and 8 this is an upstream repository, as well as additional CentOS packages. The CentOS development team have tested every item in this repository and they all work with CentOS. This repository is shipped with CentOS and is <strong>enabled by default</strong>. <span class="anchor" id="line-19"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-20"></span><ul><li><p class="line891"><strong><a href="/AdditionalResources/Repositories/CentOSPlus">CentOSPlus</a></strong> - Packages that actually replace certain base CentOS components, to provide additional functionality. This repo will change CentOS so that it is not exactly like the upstream provider's content. The CentOS development team have tested every item in this repository and they all work with CentOS. They have not been tested by the upstream provider and are not available in the upstream products. This repository is shipped with CentOS but is <strong>not enabled by default</strong>. Popular packages from this repository include: the CentOS-Plus kernel (a rebuilt kernel with patches and additional drivers/features), postfix with postgresql support (the distro version only enables mysql). <span class="anchor" id="line-21"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-22"></span><ul><li><p class="line891"><strong>CentOS-Fasttrack</strong> - FastTrack was an upstream program to release some updates on a cycle that was different from the normal point release cycle.  This was deprecated upstream for the 6.9 and 7.3 release cycles <a class="https" href="https://access.redhat.com/articles/2153451">upstream article</a>.  We are now using this repo as a method for releasing community based fixes for packages that will <strong>replace</strong> actual upstream content.  This repository is completely optional and what goes in it will be decided by the CentOS QA Team.  We are currently working on a mechanism to receive patches via git to add to this repo.  We will have discussions about this repo in the #centos-devel channel on Libera.chat irc and the CentOS-Devel mailing list. <span class="anchor" id="line-23"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-24"></span><ul><li><p class="line891"><strong>debuginfo</strong> - Packages with debugging symbols generated when the primary packages were built.  No <a href="/AdditionalResources/Repositories/DebugInfo">repo config</a> is provided by default. Tools like oprofile, crash, and systemtap require debuginfo packages. Note that debuginfo packages may not be signed so must be installed with "--nogpgcheck" or using "gpgcheck=0" in the repo definition. These packages are found at <a class="http" href="http://debuginfo.centos.org/">http://debuginfo.centos.org/</a> <span class="anchor" id="line-25"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-26"></span><ul><li><p class="line891"><strong><a href="/AdditionalResources/Repositories/CR">CR</a></strong> - The Continuous Release repository contains packages for the next point release of CentOS. This repository only has content in the time period between an upstream release and the official CentOS release. It should be considered beta quality, and is not recommended for production servers. Having said that, it may be something you do want since it often contains security fixes from the newer point release that have been built but not yet released. The content of this repo is exactly what will be made publicly available when the ISO images have been built and tested. The idea is to provide sysadmins with the content of the new point release to use on running servers without needing to wait the extra week or two for the ISO images to be made available. <span class="anchor" id="line-27"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-28"></span><ul><li><p class="line891"><strong>kernel</strong> - Alternative arches are not always able to use kernels from Red Hat (armhfp specifically). This repository contains the kernels built for such arches (LTS from kernel.org) and is maintained by the <a href="/SpecialInterestGroup/AltArch">Altarch SIG</a>. Since these kernels can also be useful for non-armhfp users, they are built for some other arches too. Enabled by default in armhfp, disabled on all the other arches. <span class="anchor" id="line-29"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-30"></span><ul><li><p class="line891"><strong>experimental</strong> - Just as kernel repo, but newer, like a playground of what the kernel will be on the next minor release, sometimes there is no newer LTS, so it just stays empty until a new version is released. This repository is also maintained by the <a href="/SpecialInterestGroup/AltArch">Altarch SIG</a>. Disabled by default. <span class="anchor" id="line-31"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-32"></span><ul><li><p class="line891"><strong><a href="/AdditionalResources/Repositories/SCL">Software Collections</a></strong> - The SCL repository is now maintained by a CentOS SIG and thus is not strictly a CentOS repo. It contains newer versions of various programs that can be installed alongside existing older packages and invoked by using the <strong>scl</strong> command. It is installed by using <strong>yum --enablerepo=extras install centos-release-scl</strong> . At the time of writing, the repository contains packages for devtoolset 3, 4 and 6 (no idea what happened to devtoolset-5), a couple of newer git versions, httpd24 (2.4.18), newer mariadb versions, maven30 and 33, several mongodb versions, several mysql versions, nginx versions, nodejs010, some newer perl versions, php versions up to 7.0, postgresql92 and 95, several python versions, eclipse46 andLine various ruby versions. Many of these are also supplied by other repos as drop-in replacements for the distro versions and you may want to review a (relatively) unbiased comparison of how SCL differs from those other repositories <a class="https" href="https://www.hogarthuk.com/?q=node/15">here</a> <span class="anchor" id="line-33"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-34"></span><ul><li><p class="line891"><strong>PowerTools</strong> - Available only for CentOS8, the PowerTools repository provides most of the developer tools. Disabled by default. <span class="anchor" id="line-35"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-36"></span>
+<h1 id="Third_Party_Repositories">Third Party Repositories</h1>
+<span class="anchor" id="line-37"></span><span class="anchor" id="line-38"></span><div><table><tbody><tr>  <td class="lmimg orange" style="padding:0pt; text-align:center;"><p class="line862"> <img alt="ArtWork/WikiDesign/icon-admonition-alert.png" class="attachment" src="/ArtWork/WikiDesign?action=AttachFile&amp;do=get&amp;target=icon-admonition-alert.png" title="ArtWork/WikiDesign/icon-admonition-alert.png" /> </td>
+  <td class="lmtxt orange" colspan="2" style="padding:0pt; text-align:left;"><p class="line862"> <strong>WARNING:</strong> <em>These repositories are <strong>not provided nor supported</strong> by CentOS. The CentOS project has no control over these sites. Many have their own mailing lists, IRC channels, issue trackers, etc. for support issues with their packages.</td>
+</tr>
+<tr>  <td class="lmimg blue" style="padding:0pt; text-align:center;"><span class="anchor" id="line-39"></span><p class="line862"> <img alt="ArtWork/WikiDesign/icon-admonition-info.png" class="attachment" src="/ArtWork/WikiDesign?action=AttachFile&amp;do=get&amp;target=icon-admonition-info.png" title="ArtWork/WikiDesign/icon-admonition-info.png" /> </td>
+  <td class="lmtxt blue" colspan="2" style="padding:0pt; text-align:left;"><p class="line891"><strong>NOTE:</strong> If you are considering using a 3rd Party Repository, then you should seriously consider how to prevent unintended 'updates' from these side archives from over-writing some core part of CentOS. One approach is to only enable these archives from time to time, and generally leave them disabled.  See: <tt>man&nbsp;yum</tt> </td>
+</tr>
+<tr>  <td class="lmimg blue" style="padding:0pt; text-align:center;"><span class="anchor" id="line-40"></span><p class="line862"> </td>
+  <td class="lmtxt blue" colspan="2" style="padding:0pt; text-align:left;"><p class="line862">Another approach is to use the <tt>exclude=</tt> and <tt>includepkgs=</tt> options on a per sub-archive basis, in the matching <tt>.conf</tt> file found in <tt>/etc/yum.repos.d/</tt>  See: <tt>man&nbsp;yum.conf</tt> </td>
+</tr>
+<tr>  <td class="lmimg blue" style="padding:0pt; text-align:center;"><span class="anchor" id="line-41"></span><p class="line862"> </td>
+  <td class="lmtxt blue" colspan="2" style="padding:0pt; text-align:left;"><p class="line862">The <tt>yum</tt> <a href="/PackageManagement/Yum/Priorities">Priorities</a> plug-in can prevent a 3rd party repository from replacing base packages, or prevent base/updates from replacing a 3rd party package. </td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-42"></span><span class="anchor" id="line-43"></span><p class="line867">
+<h3 id="Community_Approved_Repositories">Community Approved Repositories</h3>
+<span class="anchor" id="line-44"></span><span class="anchor" id="line-45"></span><p class="line862">These repositories are frequently recommended by the community, are usually well maintained and provide a substantial number of additional packages to CentOS. They are still <strong>not</strong> associated with CentOS but are independent. The above warnings about updates and priorities should still be heeded. <span class="anchor" id="line-46"></span><hr /><p class="line874"> <span class="anchor" id="line-47"></span><ul><li><p class="line891"><strong>Extra Packages for Enterprise Linux (EPEL)</strong> - (See <a class="http" href="http://fedoraproject.org/wiki/EPEL">http://fedoraproject.org/wiki/EPEL</a>) provides rebuilds of Fedora packages for EL6 and EL7. Packages should not replace base, although there have been issues around point releases in the past. You can install EPEL by running <strong>yum --enablerepo=extras install epel-release</strong>. The epel-release package is included in the CentOS Extras repository that is enabled by default. Support available on Libera.chat in #epel, on <a class="https" href="https://lists.fedoraproject.org/mailman/listinfo/epel-devel">mailing lists</a>, and its <a class="https" href="https://bugzilla.redhat.com/enter_bug.cgi?product=Fedora+EPEL">issue tracker</a>. If you are willing to help test EPEL updates before they are pushed to stable, you can <a class="https" href="https://www.centos.org/forums/viewtopic.php?f=10&amp;t=68225">enable the epel-testing repository</a> on your development/testing servers. Enabling epel-testing on production systems is not a good idea. <span class="anchor" id="line-48"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-49"></span><ul><li><p class="line891"><strong>EPEL Next</strong> - (See <a class="https" href="https://fedoraproject.org/wiki/EPEL_Next">https://fedoraproject.org/wiki/EPEL_Next</a>) additional repositories that allows package maintainers to build against CentOS Stream instead of RHEL. This is sometimes necessary when CentOS Stream contains an upcoming RHEL library rebase, or if an EPEL package has a minimum version build requirement that is already in CentOS Stream but not yet in RHEL. EPEL Next has its own distgit branches, koji build targets, and bodhi releases. <span class="anchor" id="line-50"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-51"></span><ul><li><p class="line891"><strong>EPEL Playground</strong> - (See <a class="https" href="https://hackmd.io/@ssmoogen/B1p2QM-eS">https://hackmd.io/@ssmoogen/B1p2QM-eS</a>) additional repository for EPEL-8. It is meant to be sort of like Fedora Rawhide so that packagers can work on versions of software which are too fast moving or will have large API changes from what they are putting in the regular channel. Consumers should be aware that packages in EPEL8-playground are there without any Service Level Expectations. You may want to only cherry pick packages from there as needed, although many of the packages from EPEL-Playground end being promoted to EPEL proper. <span class="anchor" id="line-52"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-53"></span><ul><li><p class="line891"><strong>The Community Enterprise Linux Repository (ELRepo)</strong> - (See <a class="http" href="http://elrepo.org/">http://elrepo.org/</a>) focuses on kmod driver packages to enhance hardware support in EL6, EL7, and EL8 (including display, filesystem, hwmon, network, and storage drivers). Newer kernels are also available. Follow the <a class="http" href="http://elrepo.org/">ELRepo Home Page</a> to install the elrepo-release package and import the GPG key. Please see the site for additional details. Support available on Libera.chat in #elrepo, on mailing lists for <a class="http" href="http://lists.elrepo.org/mailman/listinfo/elrepo">ELRepo users</a> and <a class="http" href="http://lists.elrepo.org/mailman/listinfo/elrepo-devel">ELRepo development</a> and its <a class="http" href="http://elrepo.org/bugs">issue tracker</a>. <span class="anchor" id="line-54"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-55"></span><ul><li><p class="line891"><strong>LinuxTECH.NET Repositories</strong> - (see <a class="http" href="http://pkgrepo.linuxtech.net/el6/">http://pkgrepo.linuxtech.net/el6/</a> ) provides Audio / Video related packages with an emphasis on wide support of codecs and as many optional features enabled as possible in all packages. This repo is for CentOS 6 <strong>only</strong>. May replace base packages if the "backports" repo is enabled. A repo config is available at: <a class="http" href="http://pkgrepo.linuxtech.net/el6/release/linuxtech.repo">http://pkgrepo.linuxtech.net/el6/release/linuxtech.repo</a> . <span class="u">As of May 2nd 2018 when last checked, the main repo had no packages that had been updated in 2016 or 2017 and only two packages from the testing repo where updated after 2015 so care should be taken with this one as you may be using packages with known security vulnerabilities</span>. Do <strong>not</strong> attempt to use this repo on CentOS 7, it will not work. <span class="anchor" id="line-56"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-57"></span><ul><li><p class="line891"><strong>nux-dextop</strong> - (see <a class="http" href="http://li.nux.ro/repos.html">http://li.nux.ro/repos.html</a>) provides desktop and multimedia oriented packages for EL6 and 7. It contains a lot of graphical programs such as Ardour, but also text based apps like Cone. Requires EPEL and should not overwrite base. There is no nux-dextop repo for CentOS 8 and you should not attempt to use the CentOS 7 version on CentOS 8. If you need multimedia packages on CentOS 8 then start by looking at rpmfusion instead. Existing nux-dextop users may wish to consider migrating to rpmfusion. <span class="anchor" id="line-58"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-59"></span><ul><li><p class="line891"><strong>IUS Repo</strong> - (See <a class="https" href="https://ius.io/">https://ius.io/</a> - <a class="http" href="http://lists.centos.org/pipermail/centos-docs/2009-November/003730.html">http://lists.centos.org/pipermail/centos-docs/2009-November/003730.html</a> ) provides the "latest upstream versions of PHP, Python, MySQL". It is sponsored by internal work at Rackspace (but officially unsupported). See their <a class="https" href="https://ius.io/usage">Client Usage Guide</a> to install the ius-release package to configure the repo. See their <a class="https" href="https://ius.io/faq">FAQ</a> which frankly discusses pros and cons. There is also a relatively unbiased comparison of the use of IUS vs SCL <a class="https" href="https://web.archive.org/web/20200507122008/https://www.hogarthuk.com/?q=node/15">here</a> <span class="anchor" id="line-60"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-61"></span><ul><li><p class="line891"><strong>agr-free</strong> - (see <a class="http" href="http://rpm.agresearch.co.nz/">http://rpm.agresearch.co.nz/</a>) provides bioinformatics software for EL6 distributions, x86_64 architecture <strong>only</strong>.  It is managed by AgResearch, New Zealand and contains a large selection of bioinformatics packages &amp; dependencies, as used by scientists at AgResearch.  It is designed to be used in combination with the EPEL repository.  Full details can be found on the <a class="http" href="http://rpm.agresearch.co.nz/">home page</a>. Again, this is not for use on CentOS 7. <span class="anchor" id="line-62"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-63"></span><ul><li><p class="line891"><strong>GhettoForge</strong> - (see <a class="http" href="http://GhettoForge.org/">http://GhettoForge.org/</a>) provides packages not in other third party repositories or newer versions of packages for EL7. Packages that overwrite base should only be in the [gf-plus] repository. Please see the <a class="http" href="http://GhettoForge.org/index.php/Usage">usage</a> section of the GhettoForge wiki for information on how to maintain sanity when using the gf-plus packages. Join #ghettoforge on Libera.chat IRC for assistance <span class="anchor" id="line-64"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-65"></span><ul><li><p class="line891"><strong>Psychotic Ninja</strong> - (see  <a class="http" href="http://wiki.psychotic.ninja/index.php">http://wiki.psychotic.ninja/index.php</a>) is a provider of packages for Red Hat Enterprise Linux and respins such as CentOS Linux , Scientific Linux, Springdale, Oracle Linux and similar projects. The goal is to provide high quality packages for Enterprise Linux releases 7 that are not presently in the base EL package sets nor in other third-party repositories. <span class="anchor" id="line-66"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-67"></span><ul><li><p class="line891"><strong>RPM Fusion Repository</strong> - (See <a class="http" href="http://rpmfusion.org/">http://rpmfusion.org/</a>) provides "software that the Fedora Project or Red Hat doesn't want to ship" for EL and Fedora. Supported architectures are x86_64, aarch64 and ppc64le. The repository relies on EPEL for some dependencies. The policy is to not replace RHEL and EPEL packages. Mailing list for RPM Fusion users: <a class="https" href="https://lists.rpmfusion.org">https://lists.rpmfusion.org</a>. Reports bugs to <a class="https" href="https://bugzilla.rpmfusion.org">https://bugzilla.rpmfusion.org</a> <span class="anchor" id="line-68"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-69"></span><ul><li><p class="line891"><strong>Harbottle</strong> - (See <a class="https" href="https://gitlab.com/harbottle/harbottle-main">https://gitlab.com/harbottle/harbottle-main</a>) A yum repo of RPM files containing various packages not available in the standard repos. The packages are suitable for CentOS 7 and CentOS 8 (and RHEL, Oracle Linux, etc.).  Also includes individual repositories for extra Perl modules, extra Python modules, extra Ruby Gems, Omnibus packages and Wine 32 bit packages. <span class="anchor" id="line-70"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-71"></span><ul><li><p class="line891"><strong>The SerNet Samba Repository</strong> - (See <a class="http" href="http://www.sernet.de/en/samba/">http://www.sernet.de/en/samba/</a>) German site with updated samba packages for Centos 7 and 6, along with numerous other packages. Some users have reported success with these packages but caution is advised. Be aware that only samba versions up to 4.2 are free, more recent versions require an annual subscription to access. <span class="anchor" id="line-72"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-73"></span><ul><li><p class="line891"><strong>Trinity Desktop Environment (TDE)</strong> - (see <a class="http" href="http://www.TrinityDesktop.org/about.php">http://www.TrinityDesktop.org/about.php</a> ) provides EL5, 6, and 7 packages for a KDE 3.5 style desktop environment. <a class="https" href="https://wiki.TrinityDesktop.org/RedHat_Trinity_Repository_Installation_Instructions">EL5, 6, and 7</a> yum repositories are available. They have their own <a class="http" href="http://www.TrinityDesktop.org/support.php">support resources</a> to which any Trinity questions should be directed. <span class="anchor" id="line-74"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-75"></span><ul><li><p class="line891"><strong>Remi Repository</strong> -  (See <a class="http" href="http://rpms.remirepo.net/">http://rpms.remirepo.net/</a>) Remi Collet maintains a large collection of RPMS, including latest versions of PHP etc. He's also got an FAQ at <a class="http" href="http://blog.remirepo.net/pages/English-FAQ">http://blog.remirepo.net/pages/English-FAQ</a> . Note that this is a collection of repos, and using the -safe series will ensure that nothing from the base CentOS Linux distro is overwritten or replaced. However, be aware that this repo does not play nicely with other third party repos - for example, Remi's packages contain Obsoletes: lines for packages from both IUS and Webtatic repos and thus will automatically replace them with the .remi version. This may not be the desired behaviour and you should be careful with enabling this repo for that reason. <span class="anchor" id="line-76"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-77"></span><ul><li><p class="line891"><strong>ZFS On Linux</strong> - (See <a class="http" href="http://www.zfsonlinux.org/">http://www.zfsonlinux.org/</a>) The ZFS on Linux project is an implementation of OpenZFS designed to work in a Linux environment. Though highly sophisticated and popular this filesystem receives no testing or support by RedHat/CentOS, as with all other 3rd party repos use at your own risk. <span class="anchor" id="line-78"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-79"></span><ul><li><p class="line891"><strong>Linux Forensics Tools Repository - LiFTeR</strong> - (See <a class="https" href="https://forensics.cert.org/">https://forensics.cert.org/</a>) The CERT Linux Forensics Tools Repository provides many useful packages for cyber forensics acquisition and analysis practitioners. It also includes many of the useful packages that were provided in the past by the now obsolete RPMForge and RepoForge repositories. <span class="anchor" id="line-80"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-81"></span><span class="anchor" id="line-82"></span><span class="anchor" id="line-83"></span><p class="line867">
+<h3 id="Known_Problem_Repositories">Known Problem Repositories</h3>
+<span class="anchor" id="line-84"></span><span class="anchor" id="line-85"></span><p class="line874">These repositories are known to cause issues due to large scale of replacement of base packages with little or no warning. Use extreme caution if you choose to use these repositories, and consider using an alternative above. <span class="anchor" id="line-86"></span><hr /><p class="line874"> <span class="anchor" id="line-87"></span><ul><li><p class="line891"><strong>Atomic Repo</strong> - (See <a class="https" href="https://www.atomicorp.com/channels/">https://www.atomicorp.com/channels/</a>) Atomicorp has commercial products as well as free repositories with later version of PHP, MySQL and many other packages. Some additional packages that may not be available elsewhere include hunspell, snort, and zabbix. They also provide Plesk.&lt;class="lmtxt orange" style="padding:0pt;text-align:left;"&gt; <span class="anchor" id="line-88"></span></li></ul><div><table><tbody><tr>  <td class="lmimg orange" style="padding:0pt; text-align:left;"><p class="line862"> <img alt="ArtWork/WikiDesign/icon-admonition-alert.png" class="attachment" src="/ArtWork/WikiDesign?action=AttachFile&amp;do=get&amp;target=icon-admonition-alert.png" title="ArtWork/WikiDesign/icon-admonition-alert.png" /> </td>
+  <td class="lmtxt orange" colspan="2" style="padding:0pt; text-align:left;"><p class="line862"> Be <strong>particularly careful</strong> about the Atomic repo as they enable their repo by default when installed, and overwrite user changes in the configuration without notice when the release package is updated.  Atomic <strong>will</strong> replace many core packages as configured when installed.  Many CentOS users have had problems after enabling this repo, as a <a class="https" href="https://www.centos.org/search.php?query=atomicorp&amp;mid=30&amp;action=showall&amp;andor=AND">forum search</a> will reveal. Even <strong>removing</strong> packages installed from this repository may leave the system in an unusable state. You've been warned.</td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-89"></span><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-90"></span><ul><li><p class="line891"><strong>City-Fan</strong> - Supplies repos for various CentOS/RHEL versions and all appear to have no regard for overwriting packages from base/updates without warning. Enabled by default, contains lots of packages that overwrite base packages. That includes various system libraries including libcurl and <strong>will</strong> break yum as soon as it's installed! Do not use. <span class="anchor" id="line-91"></span></li></ul><div><table><tbody><tr>  <td class="lmimg orange" style="padding:0pt; text-align:left;"><p class="line862"> <img alt="ArtWork/WikiDesign/icon-admonition-alert.png" class="attachment" src="/ArtWork/WikiDesign?action=AttachFile&amp;do=get&amp;target=icon-admonition-alert.png" title="ArtWork/WikiDesign/icon-admonition-alert.png" /> </td>
+  <td class="lmtxt orange" colspan="2" style="padding:0pt; text-align:left;"><p class="line862"> Be <strong>particularly careful</strong> about the City-Fan repo as they enable their repo by default when installed.  City-Fan <strong>will</strong> replace many core packages as configured when installed and those packages often have a different structure than the CentOS ones making them difficult if not impossible to remove cleanly.  Even <strong>removing</strong> packages installed from this repository may leave the system in an unusable state. You've been warned.</td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-92"></span><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-93"></span><ul><li><p class="line891"><strong>Jason Litka - Utter Ramblings Repository</strong> - No longer appears to be maintained. <span class="anchor" id="line-94"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-95"></span><ul><li><p class="line891"><strong>RPMForge/RepoForge</strong> - This is a dead project. Not maintained. DO NOT USE. <span class="anchor" id="line-96"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-97"></span><ul><li><p class="line891"><strong>Webtatic Repo</strong> - Provides updated packages with later versions of PHP, MySQL, and other packages. IUS or SCL are better alternatives. <span class="anchor" id="line-98"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-99"></span><span class="anchor" id="line-100"></span><p class="line867">
+<h1 id="An_example_of_what_NOT_to_do">An example of what NOT to do</h1>
+<span class="anchor" id="line-101"></span><span class="anchor" id="line-102"></span><div><table><tbody><tr>  <td class="lmimg orange" style="padding:0pt; text-align:center;"><p class="line862"> <img alt="ArtWork/WikiDesign/icon-admonition-alert.png" class="attachment" src="/ArtWork/WikiDesign?action=AttachFile&amp;do=get&amp;target=icon-admonition-alert.png" title="ArtWork/WikiDesign/icon-admonition-alert.png" /> </td>
+  <td class="lmtxt orange" colspan="2" style="padding:0pt; text-align:left;"><p class="line862"> <strong>WARNING:</strong> </em>Do NOT do this<em>. </td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-103"></span><p class="line874">A person asked in the IRC channel about some external third-party 'yum' additional repository instructions. It is a bad idea to follow some external documents. A couple of examples of incorrect repo configs: <span class="anchor" id="line-104"></span><span class="anchor" id="line-105"></span><ul><li>Use of hard-coded version and architecture: 'baseurl=http: //ftp.belnet.be/packages/dries.ulyssis.org/redhat/el4/en/i386/dries/RPMS' This hard codes both for '$releasever' and '$basearch'.  Compare this, to the more proper: 'baseurl=http: //apt.sw.be/redhat/el$releasever/en/$basearch/dag'.  The 'hard coded' approach limits it to only be 'correct' for CentOS 4 on an i386 platform. <span class="anchor" id="line-106"></span></li><li>Mixing Fedora repositories with CentOS oriented repositories: Look for 'name=Fedora', vs. 'name=CentOS.(whatever)'. Fedora repositories are not likely to be compatible with CentOS.  Repositories for other Enterprise Linux distros derived from the same upstream sources are more likely to be compatible, but should still be used with care. <span class="anchor" id="line-107"></span></li><li>Using the wrong version of a repository for your version of CentOS! When installing a repo, please make sure it is for the proper version, otherwise unexpected behavior will occur. <span class="anchor" id="line-108"></span></li></ul><p class="line867"><img alt="&lt;!&gt;" height="16" src="/moin_static1911/memodump/img/attention.png" title="&lt;!&gt;" width="16" /> Please do NOT follow such examples.  Use a critical eye and some thought to see what is proposed before adding to (and possibly breaking) your system's 'yum' configuration. <span class="anchor" id="line-109"></span><span class="anchor" id="bottom"></span></div>
+<!-- End of page contents -->
+
+      </div> <!-- /#contentbox -->
+      <!-- End of content body -->
+    </div> <!-- /.container, #pagebox -->
+  </div> <!-- /#outbox -->
+
+  <!-- pageinfo -->
+  <div id="pageinfo-container">
+    <div class="container">
+      <p id="pageinfo" class="info" lang="en" dir="ltr">AdditionalResources/Repositories  (last edited 2021-07-26 22:44:37 by <span title="CarlGeorge"><a href="/CarlGeorge" title="CarlGeorge">CarlGeorge</a></span>)</p>
+
+    </div>
+  </div>
+  <!-- End of pageinfo -->
+
+
+
+  <!-- Footer -->
+  <div id="footer">
+    <div class="container text-right text-muted">
+      <ul id="credits">
+<li><a href="http://moinmo.in/" title="This site uses the MoinMoin Wiki software.">MoinMoin Powered</a></li><li><a href="http://moinmo.in/Python" title="MoinMoin is written in Python.">Python Powered</a></li><li><a href="http://moinmo.in/GPL" title="MoinMoin is GPL licensed.">GPL licensed</a></li><li><a href="http://validator.w3.org/check?uri=referer" title="Click here to validate this page.">Valid HTML 4.01</a></li>
+</ul>
+
+      
+
+    </div> <!-- /.container -->
+  </div> <!-- /#footer -->
+  <!-- End of footer -->
+
+  <!-- Bootstrap core JavaScript -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="/moin_static1911/memodump/js/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="/moin_static1911/memodump/js/bootstrap.min.js"></script>
+  <!-- toggle.js by dossist -->
+  <script src="/moin_static1911/memodump/js/toggle.js"></script>
+  <!-- Uncollapse minified navbar under mobile landscape view syncing with menu button -->
+  <script>
+    +function ($) {
+      $('.navbar-collapse').on('show.bs.collapse', function () {
+        $('.navbar-mobile-toggle').togglejs('show');
+      });
+      $('.navbar-collapse').on('hidden.bs.collapse', function () {
+        $('.navbar-mobile-toggle').togglejs('hide');
+      });
+    }(jQuery);
+  </script>
+  <!-- End of JavaScript -->
+</body>
+</html>
+

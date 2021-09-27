@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="robots" content="index,nofollow">
+
+<title>AdditionalResources/Repositories/RPMForge - CentOS Wiki</title>
+<script type="text/javascript" src="/moin_static1911/common/js/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "Search";
+//-->
+</script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/memodump.css">
+<link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/moinizer.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" media="all" href="/moin_static1911/memodump/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="CentOS Wiki: AdditionalResources/Repositories/RPMForge" href="/action/rss_rc/AdditionalResources/Repositories/RPMForge?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=AdditionalResources%2FRepositories%2FRPMForge&amp;ddiffs=1" type="application/rss+xml">
+
+
+<link rel="Start" href="/FrontPage">
+<link rel="Alternate" title="Wiki Markup" href="/action/raw/AdditionalResources/Repositories/RPMForge?action=raw">
+<link rel="Alternate" media="print" title="Print View" href="/action/print/AdditionalResources/Repositories/RPMForge?action=print">
+<link rel="Up" href="/AdditionalResources/Repositories">
+<link rel="Search" href="/FindPage">
+<link rel="Index" href="/TitleIndex">
+<link rel="Glossary" href="/WordIndex">
+<link rel="Help" href="/HelpOnFormatting">
+</head>
+
+<body  lang="en" dir="ltr">
+
+  <div id="outbox" class="sidebar-toggle">
+    <!-- Bootstrap navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top navbar-mobile-toggle" role="navigation">
+      <div class="container">
+
+        <!-- Navbar header -->
+        <div class="navbar-header">
+          <!-- Sidebar toggler -->
+          <button type="button" class="btn navbar-btn sidebar-toggler" data-toggle="toggle" data-target=".sidebar-toggle">
+            <span class="sr-only">Toggle sidebar</span>
+            <span class="menu-btn-sidebar-toggler sidebar-toggle"></span>
+          </button>
+          <!-- Button to show navbar controls when collapsed -->
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- Sitename -->
+
+          <div class="navbar-brand-wrapper">
+            <a class="navbar-brand" href="/FrontPage"><img src="/moin_static1911/common/centos.png" alt="CentOS Wiki"></a>
+          </div>
+          
+        </div> <!-- /.navbar-header -->
+
+        <!-- Body of navbar -->
+        <div class="collapse navbar-collapse">
+
+          <!-- Navbar elements -->
+          <ul class="nav navbar-nav navbar-right">
+
+            <!-- Comment toggle button -->
+
+            <li class="toggleCommentsButton" style="display:none;">
+              <a href="#" class="menu-nav-comment nbcomment" rel="nofollow" onClick="toggleComments();return false;">
+                <span class="hidden-sm">Comments</span>
+              </a>
+            </li>
+
+            <!-- Edit button -->
+
+            <li class="disabled">
+              <a class="menu-nav-edit"><span class="hidden-sm">Immutable Page</span></a>
+            </li>
+
+            <!-- Search form -->
+
+          <li>
+            <div class="navbar-form">
+              <form class="form-search" role="search" id="searchform" method="get" action="/AdditionalResources/Repositories/RPMForge">
+                <input type="hidden" name="action" value="fullsearch">
+                <input type="hidden" name="context" value="180">
+                <div class="form-group">
+                  <label class="sr-only" for="searchinput">Search:</label>
+                  <input id="searchinput" type="text" class="form-control form-search" placeholder="Search" name="value" value="">
+                </div>
+              </form>
+            </div>
+          </li>
+
+            <!-- Menu -->
+
+            <li class="dropdown">
+              <!-- Menu button -->
+              <a href="#" class="menu-nav-menu dropdown-toggle" data-toggle="dropdown">
+                Menu<span class="padding"></span><span class="caret"></span>
+              </a>
+              <!-- Dropdown contents -->
+              <ul class="dropdown-menu">
+                <li class="dropdown-header">Navigation</li>
+                <li><a href="/RecentChanges" class="menu-dd-RecentChanges" rel="nofollow">RecentChanges</a></li>
+                <li><a href="/FindPage" class="menu-dd-FindPage" rel="nofollow">FindPage</a></li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=LocalSiteMap" class="menu-dd-LocalSiteMap" rel="nofollow">Local Site Map</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Help</li>
+                <li><a href="/HelpContents" class="menu-dd-HelpContents" rel="nofollow">HelpContents</a></li>
+                <li><a href="/HelpOnMoinWikiSyntax" class="menu-dd-HelpOnMoinWikiSyntax" rel="nofollow">HelpOnMoinWikiSyntax</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Display</li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=AttachFile" class="menu-dd-AttachFile" rel="nofollow">Attachments</a></li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=info" class="menu-dd-info" rel="nofollow">Info</a></li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=raw" class="menu-dd-raw" rel="nofollow">Raw Text</a></li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=print" class="menu-dd-print" rel="nofollow">Print View</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Edit</li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=Load" class="menu-dd-Load" rel="nofollow">Load</a></li>
+                <li><a href="/AdditionalResources/Repositories/RPMForge?action=Save" class="menu-dd-Save" rel="nofollow">Save</a></li>
+              </ul>
+            </li> <!-- /dropdown -->
+
+            <!-- Login user -->
+
+            <li>
+              <a class="menu-nav-login" href="/action/login/AdditionalResources/Repositories/RPMForge?action=login" rel="nofollow">Login</a>
+            </li>
+
+
+          </ul> <!-- /.navbar-right -->
+
+        </div> <!-- /.collapse -->
+      </div> <!-- /.container -->
+    </div> <!-- /.navbar -->
+    <!-- End of navbar -->
+
+    <div class="container no-padding" id="pagebox">
+
+
+      <!-- Sidebar -->
+      <div class="sidebar-toggle" id="sidebar-curtain">
+        <div class="sidebar-toggle" id="sidebar-mover">
+          <div class="sidebar-toggle" id="sidebar" role="navigation">
+<!-- SideBar contents -->
+
+<!-- End of SideBar contents -->
+
+            <div>
+              <h4>Navigation</h4>
+              <ul id='navibar'>
+                <li class="wikilink"><a href="/FrontPage">FrontPage</a></li>                <li class="wikilink"><a href="/Documentation">Documentation</a></li>                <li class="wikilink"><a href="/TipsAndTricks">TipsAndTricks</a></li>                <li class="wikilink"><a href="/HowTos">HowTos</a></li>                <li class="wikilink"><a href="/FAQ">FAQ</a></li>                <li class="wikilink"><a href="/Events">Events</a></li>                <li class="wikilink"><a href="/Contribute">Contribute</a></li>                <li class="wikilink"><a href="/ReportBugs">ReportBugs</a></li>                <li class="wikilink"><a href="/RecentChanges">RecentChanges</a></li>
+              </ul>
+            </div>
+
+
+          </div> <!-- /#sidebar -->
+        </div> <!-- /#sidebar-mover -->
+      </div><div id="contentbox"> <!-- End of Sidebar and Beginning of content -->
+
+
+
+
+        <div id="location">
+
+
+<ul id="pagelocation">
+<li><a href="/AdditionalResources">AdditionalResources</a></li><li><a href="/AdditionalResources/Repositories">Repositories</a></li><li>RPMForge</li>
+</ul>
+
+          <span class="lastupdate">Last updated at 2019-12-09 09:11:31</span>
+        </div>
+
+
+<!-- Page contents -->
+<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span><p class="line867">
+<h1 id="RPMforge.2FRepoForge_status">1. RPMforge/RepoForge status</h1>
+<span class="anchor" id="line-4"></span><p class="line862">RPMForge/!<a class="nonexistent" href="/RepoForge">RepoForge</a> is a dead project. It is not maintained. DO NOT USE. <span class="anchor" id="line-5"></span><span class="anchor" id="line-6"></span><p class="line862">See also <a class="https" href="https://github.com/repoforge/rpms/issues/375">https://github.com/repoforge/rpms/issues/375</a> <span class="anchor" id="line-7"></span><span class="anchor" id="bottom"></span></div>
+<!-- End of page contents -->
+
+      </div> <!-- /#contentbox -->
+      <!-- End of content body -->
+    </div> <!-- /.container, #pagebox -->
+  </div> <!-- /#outbox -->
+
+  <!-- pageinfo -->
+  <div id="pageinfo-container">
+    <div class="container">
+      <p id="pageinfo" class="info" lang="en" dir="ltr">AdditionalResources/Repositories/RPMForge  (last edited 2019-12-09 09:11:31 by <span title="">anonymous</span>)</p>
+
+    </div>
+  </div>
+  <!-- End of pageinfo -->
+
+
+
+  <!-- Footer -->
+  <div id="footer">
+    <div class="container text-right text-muted">
+      <ul id="credits">
+<li><a href="http://moinmo.in/" title="This site uses the MoinMoin Wiki software.">MoinMoin Powered</a></li><li><a href="http://moinmo.in/Python" title="MoinMoin is written in Python.">Python Powered</a></li><li><a href="http://moinmo.in/GPL" title="MoinMoin is GPL licensed.">GPL licensed</a></li><li><a href="http://validator.w3.org/check?uri=referer" title="Click here to validate this page.">Valid HTML 4.01</a></li>
+</ul>
+
+      
+
+    </div> <!-- /.container -->
+  </div> <!-- /#footer -->
+  <!-- End of footer -->
+
+  <!-- Bootstrap core JavaScript -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="/moin_static1911/memodump/js/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="/moin_static1911/memodump/js/bootstrap.min.js"></script>
+  <!-- toggle.js by dossist -->
+  <script src="/moin_static1911/memodump/js/toggle.js"></script>
+  <!-- Uncollapse minified navbar under mobile landscape view syncing with menu button -->
+  <script>
+    +function ($) {
+      $('.navbar-collapse').on('show.bs.collapse', function () {
+        $('.navbar-mobile-toggle').togglejs('show');
+      });
+      $('.navbar-collapse').on('hidden.bs.collapse', function () {
+        $('.navbar-mobile-toggle').togglejs('hide');
+      });
+    }(jQuery);
+  </script>
+  <!-- End of JavaScript -->
+</body>
+</html>
+
